@@ -13,7 +13,7 @@ client.on('ready', () => {
   console.log('The Bot is ready!')
   })
 
-  const prefix = "-"
+  const prefix = "!"
   const lineReply = require('discord-reply');
 
   
